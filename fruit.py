@@ -1,1 +1,1 @@
-fruit=['apple','banana','watermelon']
+新疆吐鲁番的葡萄好吃的很
